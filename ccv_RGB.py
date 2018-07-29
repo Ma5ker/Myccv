@@ -92,4 +92,4 @@ if __name__ == '__main__':
     #参数
     n = 16
     tau = 0.001
-    alpha, beta=getCCV(img,tau,n)
+    #alpha, beta=getCCV(img,tau,n)
