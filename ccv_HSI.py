@@ -129,4 +129,4 @@ def getCCV(src,tau):
 if __name__ == '__main__':
     #阈值
     tau=0.001
-    alpha,beta=getCCV(img,tau)
+    #alpha,beta=getCCV(img,tau)
